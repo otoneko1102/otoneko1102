@@ -5,3 +5,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=otoneko1102&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://discord.gg/yKW8wWKCnS"><img height="50px" src="https://i.imgur.com/10jZUvg.jpg"></a>
