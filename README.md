@@ -15,4 +15,5 @@ GitHub:<br>
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 # Links
+
 ![Discord Server](https://discord.com/api/guilds/1005287561582878800/widget.png)
