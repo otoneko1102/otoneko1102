@@ -15,4 +15,4 @@ GitHub:<br>
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 # Links
-<a href="https://discord.gg/yKW8wWKCnS"><img height="50px" src="https://i.imgur.com/1QjZUvg.jpg"></a>
+<iframe src="https://discord.com/widget?id=1005287561582878800&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
