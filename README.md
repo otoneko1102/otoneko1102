@@ -16,3 +16,4 @@ GitHub:<br>
 
 # Links
 <a href="https://discord.gg/yKW8wWKCnS"><img src="https://discordapp.com/api/guilds/1005287561582878800/widget.png?style=banner4" alt="Discord Banner"/></a>
+<a href="https://discord.gg/NnhUN39nRg"><img src="https://discordapp.com/api/guilds/1039817741923786793/widget.png?style=banner4" alt="Discord Banner"/></a>
