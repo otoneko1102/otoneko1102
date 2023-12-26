@@ -15,4 +15,4 @@ GitHub:<br>
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 # Links
-<a href="https://discord.gg/yKW8wWKCnS">![Discord Banner](https://discordapp.com/api/guilds/1005287561582878800/widget.png?style=banner4)</a>
+<a href="https://discord.gg/yKW8wWKCnS"><img src="https://discordapp.com/api/guilds/1005287561582878800/widget.png?style=banner4" alt="Discord Banner"/></a>
