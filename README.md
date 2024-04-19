@@ -16,4 +16,7 @@ GitHub:<br>
 
 # Links
 <a href="https://discord.gg/yKW8wWKCnS"><img src="https://discordapp.com/api/guilds/1005287561582878800/widget.png?style=banner4" alt="Discord Banner"/></a>
-<a href="https://discord.gg/NnhUN39nRg"><img src="https://discordapp.com/api/guilds/1039817741923786793/widget.png?style=banner4" alt="Discord Banner"/></a>
+<a href="https://discord.gg/RhGkd3Fpbj"><img src="https://discordapp.com/api/guilds/1040774666794573975/widget.png?style=banner4" alt="Discord Banner"/></a>
+<a href="https://discord.gg/3u7vKV39K4"><img src="https://discordapp.com/api/guilds/1119448861610622976/widget.png?style=banner4" alt="Discord Banner"/></a>
+<a href="https://discord.gg/wmmzAjj4B5"><img src="https://discordapp.com/api/guilds/1149350818747781120/widget.png?style=banner4" alt="Discord Banner"/></a>
+<a href="https://discord.gg/QgfZATtD6a"><img src="https://discordapp.com/api/guilds/1179235961398370364/widget.png?style=banner4" alt="Discord Banner"/></a>
