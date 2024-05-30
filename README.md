@@ -1,6 +1,6 @@
 I am `otoneko.`.<br>
 I'm from Japan.
-
+<a href="https://otoneko.jp/">Go to profile</a>
 
 # Stats
 Discord:<br>
