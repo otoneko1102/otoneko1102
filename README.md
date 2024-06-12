@@ -3,7 +3,7 @@ I'm from Japan.
 <a href="https://otoneko.jp/">Go to profile</a>
 
 # Stats
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=otoneko1102&layout=compact)](https://wakatime.com/@otoneko1102)
+[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=otoneko1102&layout=compact)](https://wakatime.com/@otoneko1102)<br>
 Discord:<br>
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=957885295251034112)<br>
 GitHub:<br>
