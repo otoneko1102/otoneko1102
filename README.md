@@ -19,6 +19,5 @@ GitHub:<br>
 <a href="https://discord.gg/Z6zVCQBt9m" target="_blank"><img src="https://discordapp.com/api/guilds/957886649583415296/widget.png?style=banner2" alt="Discord Banner"/></a>
 <a href="https://discord.gg/yKW8wWKCnS" target="_blank"><img src="https://discordapp.com/api/guilds/1005287561582878800/widget.png?style=banner2" alt="Discord Banner"/></a>
 <a href="https://discord.gg/RhGkd3Fpbj" target="_blank"><img src="https://discordapp.com/api/guilds/1040774666794573975/widget.png?style=banner2" alt="Discord Banner"/></a>
-<a href="https://discord.gg/wmmzAjj4B5" target="_blank"><img src="https://discordapp.com/api/guilds/1149350818747781120/widget.png?style=banner2" alt="Discord Banner"/></a>
 <a href="https://discord.gg/QgfZATtD6a" target="_blank"><img src="https://discordapp.com/api/guilds/1179235961398370364/widget.png?style=banner2" alt="Discord Banner"/></a>
-<a href="https://discord.gg/6MGqKPwcp8" target="_blank"><img src="https://discordapp.com/api/guilds/1230848125103771758/widget.png?style=banner2" alt="Discord Banner"/></a>
+<a href="https://discord.gg/kqYCyEPcmx" target="_blank"><img src="https://discordapp.com/api/guilds/1265979416073338921/widget.png?style=banner2" alt="Discord Banner"/></a>
