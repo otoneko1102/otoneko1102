@@ -1,6 +1,6 @@
 I am `otoneko.`.<br>
 I'm from Japan.
-<a href="https://otoneko.jp/">Go to profile</a>
+<a href="https://www.otoneko.cat/">Go to profile</a>
 
 # Stats
 [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=otoneko1102&layout=compact)](https://wakatime.com/@otoneko1102)<br>
