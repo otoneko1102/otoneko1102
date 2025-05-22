@@ -6,7 +6,7 @@ I'm from Japan.
 # Stats
 [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=otoneko1102&layout=compact)](https://wakatime.com/@otoneko1102)<br>
 Discord:<br>
-![My Discord](https://discord-readme-badge.vercel.app/api?id=957885295251034112)<br>
+![My Discord](https://discord-readme-badge.vercel.app/api?id=236727759672442880)<br>
 GitHub:<br>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otoneko1102&layout=compact&show_icons=true&theme=tokyonight" />
