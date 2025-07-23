@@ -1,9 +1,11 @@
-I am `otoneko.`.<br>
-I'm from Japan.
-<a href="https://www.otoneko.cat/">Go to profile</a>
+I'm swimming in the ocean, forever and ever...  
+
+<a href="https://www.otoneko.cat/">Portfolio</a>  
+
 # View Count
 ![otoneko1102](https://count.getloli.com/@otoneko1102?theme=booru-jaypee)
 # Stats
+Codes:  
 [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=otoneko1102&layout=compact)](https://wakatime.com/@otoneko1102)<br>
 Discord:  
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=236727759672442880)<br>
