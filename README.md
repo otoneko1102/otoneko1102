@@ -12,7 +12,7 @@ Discord:
 GitHub:  
 <div algin="left">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otoneko1102&show_icons=true&count_private=true&layout=compact&theme=onedark">
+  <img height="180px" src="">
 </div>
 
 <br>
