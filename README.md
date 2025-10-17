@@ -19,7 +19,7 @@ Discord:
 GitHub:  
 <div algin="left">
   <img src="https://github-readme-stats.vercel.app/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otoneko1102&langs_count=20&show_icons=true&count_private=true&layout=compact&theme=onedark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otoneko1102&langs_count=16&show_icons=true&count_private=true&layout=compact&theme=onedark">
 </div>
 
 <br>
