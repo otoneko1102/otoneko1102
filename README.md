@@ -26,7 +26,7 @@ I'm swimming in the ocean, forever and ever...
 
 ### GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otoneko1102&langs_count=16&show_icons=true&count_private=true&layout=compact&theme=onedark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otoneko1102&langs_count=20&show_icons=true&count_private=true&layout=compact&theme=onedark)  
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=otoneko1102&theme=onedark&count_private=true&column=10)
 
