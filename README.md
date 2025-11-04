@@ -29,8 +29,11 @@ I'm swimming in the ocean, forever and ever...
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=236727759672442880)
 
 ### GitHub:
-<img style="height: 130px;" src="https://github-readme-stats.vercel.app/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark" alt="GitHub Stats" >
-<img style="height: 130px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otoneko1102&langs_count=20&show_icons=true&count_private=true&layout=compact&theme=onedark" alt="Top Langs" >
+
+<div style="display: flex;">
+  <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark" alt="GitHub Stats" >
+  <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otoneko1102&langs_count=20&show_icons=true&count_private=true&layout=compact&theme=onedark" alt="Top Langs" >
+</div>
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=otoneko1102&theme=onedark&count_private=true&column=10)
 
