@@ -19,7 +19,7 @@ I'm swimming in the ocean, forever and ever...
 
 ### Discord:
 
-<img style="height: 100px;" src="https://discord-readme-badge.vercel.app/api?id=236727759672442880" alt="My Discord" >
+<img style="height: 200px;" src="https://discord-readme-badge.vercel.app/api?id=236727759672442880" alt="My Discord" >
 
 ### GitHub:
 
