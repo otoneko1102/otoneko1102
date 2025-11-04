@@ -15,6 +15,10 @@ I'm swimming in the ocean, forever and ever...
 
 ## Stats
 
+### Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,coffeescript,ruby,processing,p5js,py,sqlite,prisma,nginx,html,css,md,latex,regex,vite,astro,svelte,express,discordjs,bash,npm,pnpm,git,github,githubactions,cloudflare,docker,vscode&theme=dark&perline=10)](https://skillicons.dev)
+
 ### Codes:
 
 [![wakatime](https://wakatime.com/badge/user/394a566c-2077-4d06-b5df-238177518f12.svg)](https://wakatime.com/@394a566c-2077-4d06-b5df-238177518f12)  
