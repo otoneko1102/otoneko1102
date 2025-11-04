@@ -16,13 +16,14 @@ I'm swimming in the ocean, forever and ever...
     <a href="https://wakatime.com/@otoneko1102">
       <img src="https://wakatime.com/badge/user/394a566c-2077-4d06-b5df-238177518f12.svg" alt="wakatime">
     </a>
-    <a href="https://wakatime.com/@otoneko1102">
+    <br> <a href="https://wakatime.com/@otoneko1102">
       <img style="height: 400px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=otoneko1102&layout=compact&theme=dark" alt="Stats" >
     </a>
-</div>
-<div style="flex: 1;">
-  <h3>Discord:</h3>
-  <img style="height: 150px;" src="https://discord-readme-badge.vercel.app/api?id=236727759672442880" alt="My Discord" >
+  </div>
+  <div style="flex: 1;">
+    <h3>Discord:</h3>
+    <img style="height: 150px;" src="https://discord-readme-badge.vercel.app/api?id=236727759672442880" alt="My Discord" >
+  </div>
 </div>
 
 ### GitHub:
