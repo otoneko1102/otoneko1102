@@ -10,22 +10,24 @@ I'm swimming in the ocean, forever and ever...
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,coffeescript,ruby,processing,p5js,py,sqlite,prisma,nginx,html,css,md,latex,regex,vite,astro,svelte,express,discordjs,bash,npm,pnpm,git,github,githubactions,cloudflare,docker,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
-<div style="display: flex; align-items: flex-start;">
-<div style="flex: 1; margin-right: 10px;">
-<h3>Code:</h3>
-<a href="https://wakatime.com/@otoneko1102">
-<img src="https://wakatime.com/badge/user/394a566c-2077-4d06-b5df-238177518f12.svg" alt="wakatime">
-</a>
-<br>
-<a href="https://wakatime.com/@otoneko1102">
-<img style="height: 400px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=otoneko1102&layout=compact&theme=dark" alt="Stats" >
-</a>
-</div>
-<div style="flex: 1; margin-left: 10px;">
-<h3>Discord:</h3>
-<img style="height: 150px;" src="https://discord-readme-badge.vercel.app/api?id=236727759672442880" alt="My Discord" >
-</div>
-</div>
+<table valign="top">
+  <tr>
+    <td width="50%">
+      <h3>Code:</h3>
+      <a href="https://wakatime.com/@otoneko1102">
+        <img src="https://wakatime.com/badge/user/394a566c-2077-4d06-b5df-238177518f12.svg" alt="wakatime">
+      </a>
+      <br>
+      <a href="https://wakatime.com/@otoneko1102">
+        <img style="height: 400px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=otoneko1102&layout=compact&theme=dark" alt="Stats" >
+      </a>
+    </td>
+    <td width="50%">
+      <h3>Discord:</h3>
+      <img style="height: 150px;" src="https://discord-readme-badge.vercel.app/api?id=236727759672442880" alt="My Discord" >
+    </td>
+  </tr>
+</table>
 
 ### GitHub:
 
