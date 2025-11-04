@@ -17,7 +17,7 @@ I'm swimming in the ocean, forever and ever...
       <img src="https://wakatime.com/badge/user/394a566c-2077-4d06-b5df-238177518f12.svg" alt="wakatime">
     </a>
     <br> <a href="https://wakatime.com/@otoneko1102">
-      <img style="height: 400px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=otoneko1102&layout=compact&theme=dark" alt="Stats" >
+      <img style="height: 300px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=otoneko1102&layout=compact&theme=dark" alt="Stats" >
     </a>
   </div>
   <div style="flex: 1;">
