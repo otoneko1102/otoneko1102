@@ -38,10 +38,6 @@ I'm swimming in the ocean, forever and ever...
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=otoneko1102&theme=onedark&count_private=true&column=10)
 
-## Links
-
-[![Discord Banner](https://discordapp.com/api/guilds/957886649583415296/widget.png?style=banner2)](https://discord.gg/Z6zVCQBt9m)
-
 ## Please Donate
 
 <a href="https://www.buymeacoffee.com/debuloper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
