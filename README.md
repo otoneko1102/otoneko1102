@@ -19,7 +19,7 @@ I'm swimming in the ocean, forever and ever...
     </a>
     <br>
     <a href="https://wakatime.com/@otoneko1102">
-      <img style="height: 400px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=otoneko1102&layout=compact&theme=dark" alt="Stats" >
+      <img style="height: 400px;" src="https://github-readme-stats-sepia-three-62.vercel.app/api/wakatime?username=otoneko1102&layout=compact&theme=dark" alt="Stats" >
     </a>
   </td>
   <td width="50%" style="padding-left: 10px;">
@@ -32,8 +32,8 @@ I'm swimming in the ocean, forever and ever...
 ### GitHub:
 
 <div style="display: flex;">
-  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark" alt="GitHub Stats" >
-  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otoneko1102&langs_count=20&show_icons=true&count_private=true&layout=compact&theme=onedark" alt="Top Langs" >
+  <img style="height: 200px;" src="https://github-readme-stats-sepia-three-62.vercel.app/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark" alt="GitHub Stats" >
+  <img style="height: 200px;" src="https://github-readme-stats-sepia-three-62.vercel.app/api/top-langs/?username=otoneko1102&langs_count=20&show_icons=true&count_private=true&layout=compact&theme=onedark" alt="Top Langs" >
 </div>
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=otoneko1102&theme=onedark&count_private=true&column=10)
