@@ -36,7 +36,7 @@ I'm swimming in the ocean, forever and ever...
   <img style="height: 200px;" src="https://github-readme-stats-sepia-three-62.vercel.app/api/top-langs/?username=otoneko1102&langs_count=20&show_icons=true&count_private=true&layout=compact&theme=onedark" alt="Top Langs" >
 </div>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=otoneko1102&theme=onedark&count_private=true&column=10)
+![Trophy](https://github-profile-trophy-nu-eight.vercel.app/?username=otoneko1102&theme=onedark&count_private=true&column=10)
 
 ## Please Donate
 
