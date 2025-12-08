@@ -10,15 +10,6 @@ I'm swimming in the ocean, forever and ever...
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,coffeescript,ruby,processing,p5js,py,sqlite,prisma,nginx,html,css,md,latex,regex,vite,astro,svelte,express,discordjs,bash,npm,pnpm,git,github,githubactions,cloudflare,docker,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
-### Code:
-
-[![WakaTime](https://wakatime.com/badge/user/394a566c-2077-4d06-b5df-238177518f12.svg)](https://wakatime.com/@otoneko1102)  
-[![WakaTime](https://github-readme-stats-sepia-three-62.vercel.app/api/wakatime?username=otoneko1102&layout=compact&theme=dark)](https://wakatime.com/@otoneko1102)
-
-### Discord:
-
-[![Discord](https://discord-readme-badge.vercel.app/api?id=236727759672442880)](https://discord.com/users/236727759672442880)
-
 ### GitHub:
 
 <div style="display: flex;">
@@ -28,10 +19,18 @@ I'm swimming in the ocean, forever and ever...
 
 ![Trophy](https://github-profile-trophy-nu-eight.vercel.app/?username=otoneko1102&theme=onedark&count_private=true&column=10)
 
+### Code:
+
+[![WakaTime](https://wakatime.com/badge/user/394a566c-2077-4d06-b5df-238177518f12.svg)](https://wakatime.com/@otoneko1102)  
+[![WakaTime](https://github-readme-stats-sepia-three-62.vercel.app/api/wakatime?username=otoneko1102&layout=compact&theme=dark)](https://wakatime.com/@otoneko1102)
+
+### Discord:
+
+[![Discord](https://discord-readme-badge.vercel.app/api?id=236727759672442880)](https://discord.com/users/236727759672442880)
+
 ## Please Donate
 
 <a href="https://www.buymeacoffee.com/debuloper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 <a href='https://ko-fi.com/E1E41LY2C9' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## View Count
