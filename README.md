@@ -2,7 +2,7 @@
 
 I'm swimming in the ocean, forever and ever...
 
-[Portfolio](https://www.otoneko.cat/)
+[Portfolio](https://montblank.fun)
 
 ## Stats
 
