@@ -13,16 +13,16 @@ I'm swimming in the ocean, forever and ever...
 ### GitHub:
 
 <div style="display: flex;">
-  <img style="height: 200px;" src="https://github-readme-stats-sepia-three-62.vercel.app/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark" alt="GitHub Stats" >
-  <img style="height: 200px;" src="https://github-readme-stats-sepia-three-62.vercel.app/api/top-langs/?username=otoneko1102&langs_count=20&show_icons=true&count_private=false&layout=compact&theme=onedark" alt="Top Langs" >
+  <img style="height: 200px;" src="https://github-readme-stats.oto.im/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark" alt="GitHub Stats" >
+  <img style="height: 200px;" src="https://github-readme-stats.oto.im/api/top-langs/?username=otoneko1102&langs_count=20&show_icons=true&count_private=false&layout=compact&theme=onedark" alt="Top Langs" >
 </div>
 
-![Trophy](https://github-profile-trophy-nu-eight.vercel.app/?username=otoneko1102&theme=onedark&count_private=true&column=10)
+![Trophy](https://github-profile-trophy.oto.im/?username=otoneko1102&theme=onedark&count_private=true&column=10)
 
 ### Code:
 
 [![WakaTime](https://wakatime.com/badge/user/394a566c-2077-4d06-b5df-238177518f12.svg)](https://wakatime.com/@otoneko1102)  
-[![WakaTime](https://github-readme-stats-sepia-three-62.vercel.app/api/wakatime?username=otoneko1102&layout=compact&theme=dark)](https://wakatime.com/@otoneko1102)
+[![WakaTime](https://github-readme-stats.oto.im/api/wakatime?username=otoneko1102&layout=compact&theme=dark)](https://wakatime.com/@otoneko1102)
 
 ### Discord:
 
