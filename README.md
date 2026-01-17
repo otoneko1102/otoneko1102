@@ -8,7 +8,7 @@ I'm swimming in the ocean, forever and ever...
 
 ### Skills:
 
-[![Gitty Score](gitty-code.com/api/badge/otoneko1102.png)](gitty-code.com/user/otoneko1102)
+[![Gitty Score](https://gitty-code.com/api/badge/otoneko1102.png)](https://gitty-code.com/user/otoneko1102)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,coffeescript,ruby,processing,p5js,py,sqlite,prisma,nginx,html,css,md,latex,regex,vite,astro,svelte,express,discordjs,bash,npm,pnpm,git,github,githubactions,cloudflare,docker,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
