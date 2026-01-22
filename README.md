@@ -8,8 +8,6 @@ I'm swimming in the ocean, forever and ever...
 
 ### Skills:
 
-[![Gitty Score](https://gitty-code.com/api/badge/otoneko1102.png)](https://gitty-code.com/user/otoneko1102)
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,coffeescript,ruby,processing,p5js,py,sqlite,prisma,nginx,html,css,md,latex,regex,vite,astro,svelte,express,discordjs,bash,npm,pnpm,git,github,githubactions,cloudflare,docker,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
 ### GitHub:
@@ -39,3 +37,13 @@ I'm swimming in the ocean, forever and ever...
 ## View Count
 
 ![otoneko1102](https://count.getloli.com/@otoneko1102?theme=booru-jaypee)
+
+## Others
+
+<details>
+  <summary>Click to Open</summary>
+
+  <a href="https://gitty-code.com/user/otoneko1102">
+    <img src=https://gitty-code.com/api/badge/otoneko1102.png alt="Gitty Score" />
+  </a>
+</details>
