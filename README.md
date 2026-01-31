@@ -56,9 +56,9 @@ All my skills: https://montblank.fun#skills
 ## Others
 
 <details>
-  <summary>Click to Open</summary>
 
-  <a href="https://gitty-code.com/user/otoneko1102">
-    <img src=https://gitty-code.com/api/badge/otoneko1102.png alt="Gitty Score" />
-  </a>
+<summary>Click to Open</summary>
+
+[![Gitty Score](https://gitty-code.com/api/badge/otoneko1102.png)](https://gitty-code.com/user/otoneko1102)
+
 </details>
