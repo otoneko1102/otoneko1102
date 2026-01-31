@@ -1,5 +1,3 @@
-# otoneko1102's profile
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+otoneko.;Full-stack+developer;Funny+OSS+creator" alt="Typing SVG" /></a>
 </div>
