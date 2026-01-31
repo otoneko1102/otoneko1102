@@ -2,13 +2,15 @@
 
 I'm swimming in the ocean, forever and ever...
 
-[Portfolio](https://montblank.fun)
+Portfolio: https://montblank.fun
 
 ## Stats
 
 ### Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,coffeescript,ruby,processing,p5js,py,sqlite,prisma,nginx,html,css,md,latex,regex,vite,astro,svelte,express,discordjs,bash,npm,pnpm,git,github,githubactions,cloudflare,docker,vscode&theme=dark&perline=10)](https://skillicons.dev)
+All my skills: https://montblank.fun#skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,coffeescript,html,css,md,regex,vite,astro,svelte,express,discordjs,bash,npm,pnpm,git,github,githubactions,cloudflare,docker,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
 ### GitHub:
 
