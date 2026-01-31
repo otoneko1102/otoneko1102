@@ -2,7 +2,7 @@
 
 I'm swimming in the ocean, forever and ever...
 
-Portfolio: https://montblank.fun
+My portfolio: https://montblank.fun
 
 ## Stats
 
