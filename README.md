@@ -30,7 +30,14 @@ All my skills: https://montblank.fun#skills
 ### Code:
 
 [![WakaTime](https://wakatime.com/badge/user/394a566c-2077-4d06-b5df-238177518f12.svg)](https://wakatime.com/@otoneko1102)  
+
+<details>
+
+<summary>Details of WakaTime</summary>
+
 [![WakaTime](https://github-readme-stats.oto.im/api/wakatime?username=otoneko1102&layout=compact&theme=dark)](https://wakatime.com/@otoneko1102)
+
+</details>
 
 ### Discord:
 
