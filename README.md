@@ -1,6 +1,8 @@
+![Profile Views](https://komarev.com/ghpvc/?username=qua121&color=blueviolet&style=flat-square&label=Profile+Views)
+
 <div align="center" style="align-items: center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=275&lines=Hi+there%2C+I'm+otoneko.;Full-stack+developer;Funny+OSS+developer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=275&lines=Hi+there%2C+I'm+otoneko.;Full-stack+developer;Funny+OSS+developer)
 
 </div>
 
@@ -24,7 +26,7 @@ My portfolio: https://montblank.fun
 
 All my skills: https://montblank.fun#skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,coffeescript,html,css,md,regex,vite,astro,svelte,express,discordjs,bash,npm,pnpm,git,github,githubactions,cloudflare,docker,vscode&theme=dark&perline=10)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,coffeescript,html,css,md,regex,vite,astro,svelte,express,discordjs,bash,npm,pnpm,git,github,githubactions,cloudflare,docker,vscode&theme=dark&perline=10)
 
 </div>
 
@@ -72,14 +74,6 @@ All my skills: https://montblank.fun#skills
 <a href="https://www.buymeacoffee.com/devuloper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <a href='https://ko-fi.com/E1E41LY2C9' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-</div>
-
-## View Count
-
-<div align="center" style="align-items: center">
-
-![otoneko1102](https://count.getloli.com/@otoneko1102?theme=booru-jaypee)
 
 </div>
 
