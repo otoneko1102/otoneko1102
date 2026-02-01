@@ -43,6 +43,8 @@ All my skills: https://montblank.fun#skills
 
 ### Code:
 
+<div align="center" style="align-items: center">
+
 [![WakaTime](https://wakatime.com/badge/user/394a566c-2077-4d06-b5df-238177518f12.svg)](https://wakatime.com/@otoneko1102)  
 
 <details>
@@ -53,21 +55,37 @@ All my skills: https://montblank.fun#skills
 
 </details>
 
+</div>
+
 ### Discord:
+
+<div align="center" style="align-items: center">
 
 [![Discord](https://discord-readme-badge.vercel.app/api?id=236727759672442880)](https://discord.com/users/236727759672442880)
 
+</div>
+
 ## Please Donate
+
+<div align="center" style="align-items: center">
 
 <a href="https://www.buymeacoffee.com/devuloper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <a href='https://ko-fi.com/E1E41LY2C9' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
+</div>
+
 ## View Count
+
+<div align="center" style="align-items: center">
 
 ![otoneko1102](https://count.getloli.com/@otoneko1102?theme=booru-jaypee)
 
+</div>
+
 ## Others
+
+<div align="center" style="align-items: center">
 
 <details>
 
@@ -76,3 +94,5 @@ All my skills: https://montblank.fun#skills
 [![Gitty Score](https://gitty-code.com/api/badge/otoneko1102.png)](https://gitty-code.com/user/otoneko1102)
 
 </details>
+
+</div>
