@@ -20,11 +20,17 @@ My portfolio: https://montblank.fun
 
 ### Skills:
 
+<div align="center" style="align-items: center">
+
 All my skills: https://montblank.fun#skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,coffeescript,html,css,md,regex,vite,astro,svelte,express,discordjs,bash,npm,pnpm,git,github,githubactions,cloudflare,docker,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
+</div>
+
 ### GitHub:
+
+<div align="center" style="align-items: center">
 
 <div style="display: flex;">
   <img style="height: 200px;" src="https://github-readme-stats.oto.im/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark" alt="GitHub Stats" >
@@ -32,6 +38,8 @@ All my skills: https://montblank.fun#skills
 </div>
 
 ![Trophy](https://github-profile-trophy.oto.im/?username=otoneko1102&theme=onedark&count_private=true&column=10)
+
+</div>
 
 ### Code:
 
