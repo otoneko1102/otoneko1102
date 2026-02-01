@@ -1,6 +1,6 @@
 <div align="center" style="align-items: center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=275&lines=Hi+there%2C+I'm+otoneko.;Full-stack+developer;Funny+OSS+creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=275&lines=Hi+there%2C+I'm+otoneko.;Full-stack+developer;Funny+OSS+developer)](https://git.io/typing-svg)
 
 Full-stack developer  
 Funny OSS creator
