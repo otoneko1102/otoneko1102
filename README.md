@@ -6,12 +6,15 @@
 
 ## Hi there 🐈
 
+<div align="center" style="align-items: center">
+
 I'm swimming in the ocean, forever and ever...
 
-Full-stack developer  
-Funny OSS developer
+Full-stack developer / Funny OSS developer
 
 My portfolio: https://montblank.fun
+
+</div>
 
 ## Stats
 
