@@ -12,11 +12,9 @@
 
 I'm swimming in the ocean, forever and ever...
 
-```
-Full-stack developer /  
-Funny OSS developer /  
-Developer community staff
-```
+- Full-stack developer
+- Funny OSS developer 
+- Developer community staff
 
 My portfolio: https://montblank.fun
 
