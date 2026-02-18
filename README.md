@@ -18,7 +18,7 @@ I'm swimming in the ocean, forever and ever...
 | Funny OSS developer |
 | Developer community staff |
 
-My portfolio: https://montblank.fun
+My portfolio: https://otoneko.cat
 
 </div>
 
@@ -28,7 +28,7 @@ My portfolio: https://montblank.fun
 
 <div align="center" style="align-items: center">
 
-All my skills: https://montblank.fun#skills
+All my skills: https://otoneko.cat#skills
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,coffeescript,html,css,md,regex,vite,astro,svelte,express,discordjs,bash,npm,pnpm,git,github,githubactions,cloudflare,docker,vscode&theme=dark&perline=10)
 
@@ -80,6 +80,11 @@ All my skills: https://montblank.fun#skills
 <a href='https://ko-fi.com/E1E41LY2C9' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 </div>
+
+## Contact
+
+- [Twitter: @rin_pineapple](https://twitter.com/rin_pineapple)
+- [Twitter: @rin_montblank](https://twitter.com/rin_montblank)
 
 ## Others
 
