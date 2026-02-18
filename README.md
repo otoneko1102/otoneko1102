@@ -12,7 +12,7 @@
 
 I'm swimming in the ocean, forever and ever...
 
-||
+| I am a ... |
 |:-:|
 | Full-stack developer |
 | Funny OSS developer |
