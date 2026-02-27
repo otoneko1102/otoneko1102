@@ -16,6 +16,7 @@ I'm swimming in the ocean, forever and ever...
 |:-:|
 | Full-stack developer |
 | Funny OSS developer |
+| OSS contributor |
 | Developer community staff |
 
 My portfolio: https://otoneko.cat
