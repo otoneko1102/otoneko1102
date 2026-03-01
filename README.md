@@ -118,7 +118,7 @@ Tech topics & chat
 
 I'm a staff ...
 
-<img src="https://discordapp.com/api/guilds/1255359848644608035/widget.png?style=banner4" alt="Evex Developers">
+<img style="height: 200px;" src="https://discordapp.com/api/guilds/1255359848644608035/widget.png?style=banner4" alt="Evex Developers">
 
 </div>
 
@@ -126,7 +126,7 @@ I'm a staff ...
 
 Ny own ...
 
-<img src="https://discordapp.com/api/guilds/1369635074395344998/widget.png?style=banner4" alt="Oto Home">
+<img style="height: 200px;" src="https://discordapp.com/api/guilds/1369635074395344998/widget.png?style=banner4" alt="Oto Home">
 
 </div>
 
