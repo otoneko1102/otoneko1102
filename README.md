@@ -112,7 +112,7 @@ All my skills: https://otoneko.cat#skills
 
 Tech topics & chat  
 
-<img src="https://discordapp.com/api/guilds/1005287561582878800/widget.png?style=banner4" alt="Discord Banner">
+<img src="https://discordapp.com/api/guilds/1369635074395344998/widget.png?style=banner4" alt="Discord Banner">
 
 [![Gitty Score](https://gitty-code.com/api/badge/otoneko1102.png)](https://gitty-code.com/user/otoneko1102)
 
