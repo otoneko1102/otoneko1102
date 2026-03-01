@@ -1,0 +1,13 @@
+---
+import type { HTMLAttributes } from "astro/types";
+
+export interface Anchor extends HTMLAttributes<"a"> {
+  title?: string;
+  href?: URL;
+  target?: "_blank" | "_parent" | "_self" | "_top";
+}
+
+const { title, href, target, ...rest } = Astro.props as Anchor;
+---
+
+<a href={href} target={target} title={title} {...rest}>{title ?? href}</a>
