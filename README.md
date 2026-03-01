@@ -114,7 +114,7 @@ Tech topics & chat
 
 |  |  |
 |:-:|:-:|
-|<div align="center">I'm a staff ...<br><img src="https://discordapp.com/api/guilds/1255359848644608035/widget.png?style=banner4" alt="Evex Developers" width="40%"></div>|<div align="center">Ny own ...<br><img src="https://discordapp.com/api/guilds/1369635074395344998/widget.png?style=banner4" alt="Oto Home" width="40%"></div>|
+|<div align="center">I'm a staff ...<br><img src="https://discordapp.com/api/guilds/1255359848644608035/widget.png?style=banner4" alt="Evex Developers" width="40vh"></div>|<div align="center">Ny own ...<br><img src="https://discordapp.com/api/guilds/1369635074395344998/widget.png?style=banner4" alt="Oto Home" width="40vh"></div>|
 
 [![Gitty Score](https://gitty-code.com/api/badge/otoneko1102.png)](https://gitty-code.com/user/otoneko1102)
 
