@@ -1,0 +1,54 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&theme=onedark
+          path: images/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&langs_count=20&show_icons=true&count_private=false&layout=compact&theme=onedark
+          path: images/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate wakatime card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark
+          path: images/wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+            username: ${{ github.repository_owner }}
+            token: ${{ secrets.GITHUB_TOKEN }}
+            file: images/trophy.svg
+            theme: onedark
+            max-rows: 1
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add images/*.svg
+          git commit -m "Update README images" || exit 0
+          git push

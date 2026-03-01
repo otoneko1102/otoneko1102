@@ -40,11 +40,20 @@ All my skills: https://otoneko.cat#skills
 <div align="center" style="align-items: center">
 
 <div style="display: flex;">
-  <img style="height: 200px;" src="https://github-readme-stats.oto.im/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark" alt="GitHub Stats" >
-  <img style="height: 200px;" src="https://github-readme-stats.oto.im/api/top-langs/?username=otoneko1102&langs_count=20&show_icons=true&count_private=false&layout=compact&theme=onedark" alt="Top Langs" >
+  <!--
+    https://github-readme-stats.oto.im/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark
+  -->
+  <img style="height: 200px;" src="./images/stats.svg" alt="GitHub Stats" >
+  <!--
+    https://github-readme-stats.oto.im/api/top-langs/?username=otoneko1102&langs_count=20&show_icons=true&count_private=false&layout=compact&theme=onedark
+  -->
+  <img style="height: 200px;" src="./images/top-langs.svg" alt="Top Langs" >
 </div>
 
-![Trophy](https://github-profile-trophy.oto.im/?username=otoneko1102&theme=onedark&count_private=true&column=10)
+<!--
+  https://github-profile-trophy.oto.im/?username=otoneko1102&theme=onedark&count_private=true&column=10
+-->
+![Trophy](./images/trophy.svg)
 
 </div>
 
@@ -58,7 +67,11 @@ All my skills: https://otoneko.cat#skills
 
 <summary>Details of WakaTime</summary>
 
-[![WakaTime](https://github-readme-stats.oto.im/api/wakatime?username=otoneko1102&layout=compact&theme=dark)](https://wakatime.com/@otoneko1102)
+<!--
+  https://github-readme-stats.oto.im/api/wakatime?username=otoneko1102&layout=compact&theme=dark
+-->
+
+[![WakaTime](./images/wakatime.svg)](https://wakatime.com/@otoneko1102)
 
 </details>
 
