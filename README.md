@@ -43,11 +43,11 @@ All my skills: https://otoneko.cat#skills
   <!--
     https://github-readme-stats.oto.im/api?username=otoneko1102&show_icons=true&count_private=true&theme=onedark
   -->
-  <img style="height: 230px;" src="./images/stats.svg" alt="GitHub Stats" >
+  <img style="height: 220px;" src="./images/stats.svg" alt="GitHub Stats" >
   <!--
     https://github-readme-stats.oto.im/api/top-langs/?username=otoneko1102&langs_count=20&show_icons=true&count_private=false&layout=compact&theme=onedark
   -->
-  <img style="height: 230px;" src="./images/top-langs.svg" alt="Top Langs" >
+  <img style="height: 220px;" src="./images/top-langs.svg" alt="Top Langs" >
 </div>
 
 <!--
