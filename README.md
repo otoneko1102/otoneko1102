@@ -112,19 +112,9 @@ All my skills: https://otoneko.cat#skills
 
 Tech topics & chat  
 
-<div style="display: flex; gap: 1rem;">
-
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
-    <span>I'm a staff ...</span>
-    <img style="height: 200px;" src="https://discordapp.com/api/guilds/1255359848644608035/widget.png?style=banner4" alt="Evex Developers">
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
-    <span>Ny own ...</span>
-    <img style="height: 200px;" src="https://discordapp.com/api/guilds/1369635074395344998/widget.png?style=banner4" alt="Oto Home">
-  </div>
-
-</div>
+|  |  |
+|:-:|:-:|
+|<div align="center">I'm a staff ...<br><img src="https://discordapp.com/api/guilds/1255359848644608035/widget.png?style=banner4" alt="Evex Developers" height="200"></div>|<div align="center">Ny own ...<br><img src="https://discordapp.com/api/guilds/1369635074395344998/widget.png?style=banner4" alt="Oto Home" height="200"></div>|
 
 [![Gitty Score](https://gitty-code.com/api/badge/otoneko1102.png)](https://gitty-code.com/user/otoneko1102)
 
