@@ -2,7 +2,7 @@
   <img src="https://justuuid.pages.dev/api/badge/u/09b1318f-d8b2-4ea8-8efc-bd94ccef5e71.svg" alt="UUID Badge" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=otoneko1102&color=blueviolet&style=flat-square&label=Profile+Views)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=otoneko1102&color=blueviolet&style=flat-square&label=Profile+Views) -->
 
 <div align="center" style="align-items: center">
   
