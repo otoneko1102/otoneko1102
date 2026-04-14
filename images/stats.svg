@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">otoneko.'s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 279, Total Commits  (last year) : 2410, Total PRs: 159, Total Issues: 27, Contributed to (last year): 39</desc>
+        <desc id="descId">Total Stars Earned: 280, Total Commits  (last year) : 2410, Total PRs: 159, Total Issues: 27, Contributed to (last year): 39</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 32.05657044791146;
+        stroke-dashoffset: 32.01798897784804;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >279</text>
+      >280</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
